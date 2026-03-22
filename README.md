@@ -6,7 +6,7 @@ SQL Server and Azure. Currently at Riskonnect, working
 on product R&D and platform engineering.
 
 Outside of work, I build algorithmic trading systems 
-in Python — most recently a fully automated US500 
+in Python, most recently, a fully automated US500 
 signal system with 4-layer SMC/ICT confluence scoring, 
 self-evolving ML models (XGBoost + LightGBM), 
 real-time intrabar delta analysis via cTrader Open API, 

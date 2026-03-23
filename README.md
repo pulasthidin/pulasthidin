@@ -7,7 +7,7 @@ on product R&D and platform engineering.
 
 Outside of work, I build algorithmic trading systems 
 in Python, most recently, a fully automated US500 
-signal system with 4-layer SMC/ICT confluence scoring, 
+signal system with 4-layer SMC confluence scoring, 
 self-evolving ML models (XGBoost + LightGBM), 
 real-time intrabar delta analysis via cTrader Open API, 
 and Telegram alerts. The system learns from its own 

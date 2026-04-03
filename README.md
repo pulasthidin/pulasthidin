@@ -1,6 +1,6 @@
 # Pulasthi Dinusha Ranathunga
 
-Senior Developer with 8 years of experience 
+Senior Developer with 10 years of experience 
 building enterprise-grade platforms using C#, .NET Core, 
 SQL Server and Azure. Currently at Riskonnect, working 
 on product R&D and platform engineering.
